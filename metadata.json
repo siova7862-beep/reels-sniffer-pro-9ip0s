@@ -1,0 +1,6 @@
+{
+  "name": "InstaReels Pro Downloader",
+  "description": "A high-performance Instagram Reels downloader with quality selection and extraction logic based on network traffic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
